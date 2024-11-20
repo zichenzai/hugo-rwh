@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>娱乐 on 阮的小家</title>
+    <link>http://localhost:1313/hugo-rwh/tags/%E5%A8%B1%E4%B9%90/</link>
+    <description>Recent content in 娱乐 on 阮的小家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (阮)</managingEditor>
+    <webMaster>youremail@example.com (阮)</webMaster>
+    <copyright>© 2024 阮</copyright>
+    <lastBuildDate>Sat, 16 Nov 2024 21:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/hugo-rwh/tags/%E5%A8%B1%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>wf游戏赚p</title>
+      <link>http://localhost:1313/hugo-rwh/posts/wf/</link>
+      <pubDate>Sat, 16 Nov 2024 21:00:00 +0800</pubDate>
+      <author>youremail@example.com (阮)</author>
+      <guid>http://localhost:1313/hugo-rwh/posts/wf/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo-rwh/posts/wf/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
